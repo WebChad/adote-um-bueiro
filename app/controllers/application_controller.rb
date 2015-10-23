@@ -17,6 +17,6 @@ protected
     available_languages = Dir.glob(Rails.root + 'config/locales/??.yml').collect do |file|
       File.basename(file, '.yml')
     end
-    I18n.locale = http_accept_language.compatible_language_from(available_languages) || I18n.default_locale
+    # I18n.locale = http_accept_language.compatible_language_from(available_languages) || I18n.default_locale
   end
 end

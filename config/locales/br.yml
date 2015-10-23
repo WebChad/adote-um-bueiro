@@ -1,6 +1,6 @@
 # Please maintain alphabetical order
 
-pt:
+br:
   buttons:
     abandon: "Abandonar esse %{thing}"
     adopt: "Adote!"
@@ -77,7 +77,7 @@ pt:
     adopted: "%{thing_name} foi adotada"
     byline: "por %{name}"
     edit_profile: "Editar seu Perfil"
-    main: "Adote-um-%{thing}"
+    main: "Adote um %{thing}"
     ofline: "do %{organization}"
     sign_in: "Entrar para adotar essa %{thing}"
     thank_you: "Obrigado por adotar este %{thing}!"
