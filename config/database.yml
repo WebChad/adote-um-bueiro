@@ -2,9 +2,6 @@ development: &DEVELOPMENT
   adapter: postgresql
   database: adopt_a_thing_development
   host: localhost
-  port: 54320
-  user: homestead
-  password: secret
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
