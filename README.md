@@ -1,4 +1,4 @@
-# Adopt-a-Hydrant
+# Apdopt a Beatiful City
 
 [![Build Status](http://img.shields.io/travis/codeforamerica/adopt-a-hydrant.svg)][travis]
 [![Dependency Status](http://img.shields.io/gemnasium/codeforamerica/adopt-a-hydrant.svg)][gemnasium]
